@@ -1,0 +1,4 @@
+etc
+share
+rm -rf html
+mkdir html
